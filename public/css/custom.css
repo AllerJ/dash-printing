@@ -1,0 +1,74 @@
+.badge.badge-secondary {
+	display: none !important;
+}
+.lit-brand svg {
+	height: 50px;
+	width: auto;
+}
+.large-logo svg {
+	height: 200px;
+	width: auto;
+}
+div#litstack nav.lit-topbar {
+	background: #38354a;
+}
+.invoice-card p {
+	display: flex;
+	justify-content: space-between;
+}
+#invoice1 {
+	display: none;
+}
+.right {
+	float:right;
+}
+
+
+a {
+	color: #069699 !important;
+}
+
+a:hover {
+	color: #056264 !important;
+}
+
+.form-control:focus {
+	border-color: color(srgb 0.024 0.588 0.6 / 0.377) !important;
+}
+.btn-primary {
+	background-color: #069699 !important;
+	border-color: #069699 !important;
+}
+
+.btn-primary:hover {
+	background-color: #056264 !important;
+	border-color: #056264 !important;
+}
+
+.lit-form-item-form_header .input-group, .lit-form-item-form_header_large .input-group  {
+	display: none;
+}
+
+.lit-form-item-form_header label, .lit-form-item-form_header_large label {
+	font-weight: 700 !important;
+}
+
+.lit-form-item-form_header {
+	padding-bottom: 0px !important;
+	margin-top: 1rem;
+	padding-top: .5rem;
+	border-top: solid 1px #c0c0c0;
+}
+
+.lit-form-item-form_header_large {
+	padding-bottom: 0px !important;
+	margin-top: 2rem;
+}
+
+.lit-form-item-form_header_large label {
+	font-size: 1.5rem;
+}
+
+a.btn-primary {
+	color: #ffffff !important;
+}
